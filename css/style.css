@@ -113,7 +113,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to bottom, pink, rebeccapurple);
+    background: linear-gradient(to bottom, #74ABE2, pink, rebeccapurple);
     font-family: 'Ropa Sans', cursive;
 }
 
